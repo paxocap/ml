@@ -1,0 +1,3 @@
+log likelihood val for unigram model = -56.7379
+log likelihood val for bigram model = -45.7627
+Bigram model yields the highest log-likelihood

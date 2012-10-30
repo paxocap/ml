@@ -1,0 +1,5 @@
+log likelihood val for unigram model = -35.2743
+log likelihood val for bigram model = -29.5379
+Bigram model yields the highest log-likelihood
+log likelihood val for bigram model if we consider </s> at the end = -inf
+oops! it seems for missing entries in index count table in bigram model can lead to erraneous log likelihood value!
